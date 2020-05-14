@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    password: Pedepano10!
-    username: hass
-    url: jdbc:mysql://192.168.1.20:3306/fornecedor
-  jpa:
-    hibernate:
-      ddl-auto: update
