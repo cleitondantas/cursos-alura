@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: admin
+    username: admin
+    url: jdbc:mysql://192.168.1.20:3306/loja
+  jpa:
+    hibernate:
+      ddl-auto: update
